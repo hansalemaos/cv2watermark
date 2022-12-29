@@ -1,7 +1,7 @@
 # Puts watermark on images using relative or absolute coordinates. 
 
 ```python
-
+$pip install cv2watermark 
 from cv2watermark import (
     merge_image_percentage_height,
     merge_image_percentage_width,
